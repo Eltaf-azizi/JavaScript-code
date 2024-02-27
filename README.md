@@ -1,1 +1,1 @@
-# JavaScript-code
+JavaScirpt practice code
