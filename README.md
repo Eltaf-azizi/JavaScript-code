@@ -8,6 +8,7 @@ To explore or run the practice exercises in this repository, you'll need:
 - A modern web browser that supports ES6 JavaScript (e.g., Chrome, Firefox, Safari).
 - Optionally, a text editor or IDE of your choice (e.g., VS Code, Atom) to edit and run the scripts locally.
 ## Contents and Descriptions
+
 Below is a list of the included exercises and a brief description of what each one demonstrates:
 
 - **basics.js**: Demonstrates JavaScript fundamentals, including variables, data types, and basic arithmetic operations.
