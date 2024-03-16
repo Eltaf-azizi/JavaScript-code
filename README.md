@@ -16,6 +16,7 @@ Below is a list of the included exercises and a brief description of what each o
 - **basics.js**: Demonstrates JavaScript fundamentals, including variables, data types, and basic arithmetic operations.
 - **functions.js**: Examples of function declarations, expressions, and arrow functions.
 - **asynchronous.js**: Practice with asynchronous JavaScript, including Promises and async/await syntax.
+- 
 ## How to Use
 
 To run the JavaScript files, you can simply open the HTML files associated with each exercise in your browser. If there are no HTML files, you can run the JavaScript files in a runtime environment like Node.js, or use an online JavaScript playground like JSFiddle or CodePen.
